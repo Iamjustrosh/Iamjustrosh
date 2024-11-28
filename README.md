@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
+<img align="center" src="./readme.gif" alt="" />
 
 ###
 
