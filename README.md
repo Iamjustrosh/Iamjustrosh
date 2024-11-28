@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="./luffy.gif"  />
 
 ###
 
@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/roshanjain-45/roshanjain-45/output/snake.svg" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
 
