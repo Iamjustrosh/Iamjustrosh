@@ -1,4 +1,4 @@
-<h2 align="left">Konichiwa👋! <br> My name is Roshan A.K.A Crusher and I'm a passionate frontend developer from India</h2>
+<h1 align="left">Konichiwa <img height="30" src="./hand-waving-hand.gif"/>!</h1> <h2 align="left"> My name is Roshan A.K.A Crusher and I'm a passionate frontend developer from India</h2>
 
 ###
 
