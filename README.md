@@ -9,16 +9,19 @@
 ---
 
 <div align="left">
-  <a href="https://discord.gg/dTDgHtnKjF" target="_blank">
+  <a href="https://discord.com/invite/yU5br5Mw6H" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" />
   </a>
-  <a href="https://www.instagram.com/am_crusher.hatake/" target="_blank">
+  <a href="https://www.instagram.com/iamjustrosh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" />
   </a>
-  <a href="https://www.youtube.com/@tc45gaming74" target="_blank">
+  <a href="https://www.youtube.com/@crusher_btc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" />
   </a>
-  <a href="https://www.linkedin.com/in/roshanjain7422" target="_blank">
+    <a href="https://www.youtube.com/@iamjustrosh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamjustrosh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" />
   </a>
   <a href="https://dev.to/roshanjain45" target="_blank">
@@ -53,9 +56,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamjustrosh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="height: 150px;" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 150px;" /> -->
   <img src="https://streak-stats.demolab.com?user=iamjustrosh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamjustrosh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamjustrosh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" /> -->
 </div>
 
 ---
@@ -67,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/roshanjain-45/count.svg?" />
+<img src="https://profile-counter.deno.dev/iamjustrosh/count.svg" alt="Key:: Visitor's Count" />
 </div>
