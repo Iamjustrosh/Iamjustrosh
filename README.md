@@ -56,9 +56,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 150px;" />
+  <img src="https://github-readme-stats.shion.dev/api?username=iamjustrosh&theme=radical&hide_border=true&include_all_commits=false&count_private=false" style="height: 150px;" />
   <img src="https://streak-stats.demolab.com?user=iamjustrosh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamjustrosh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iamjustrosh&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 150px;" />
 </div>
 
 ---
