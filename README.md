@@ -8,8 +8,8 @@
 <img src="./luffy.gif" style="height: 200px; float: right;" />
 
 ---
-[![Buy Me a Coffee](https://shields.io)](https://buymeacoffee.com/iamjustrosh)
 
+☕[Buy Me a Coffee](https://buymeacoffee.com/iamjustrosh)
 ---
 
 <div align="left">
